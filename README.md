@@ -1,5 +1,4 @@
-# Code-Snippets
- Random Coding Expirments
+# Low Latency
+Fast code.
 ## Directory:
-1. Sorting.ipynb - some fun sorting experiments
-2. lz - A rust implementation of the Lempel-Ziv compression algorithm
+1. proto-lz - A toy example of the Lempel-Ziv compression algorithm. Written in Rust.
